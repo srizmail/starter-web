@@ -9,7 +9,7 @@ This is an example demo
 Sample website with plenty of files for demos
 
 ## How to Contribute
-
+As stated above, the main purpose is to provide an example of website
 ## Deployment
 
 ## More
